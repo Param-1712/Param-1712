@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Param-1712
-- 👀 I’m interested in Movies ,sleeping
+- 👀 I’m interested in Watching Movies
 - 🌱 I’m currently learning Btech final year
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: Param
@@ -19,7 +19,10 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=codeforces&logoColor=white)  
 
 ### 📊 GitHub Stats:
 ![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Param-1712&show_icons=true&theme=radical)
