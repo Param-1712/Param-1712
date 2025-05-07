@@ -26,9 +26,10 @@ You can click the Preview link to take a look at your changes.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
 ### 📊 GitHub Stats:
-![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Param-1712&show_icons=true&theme=radical)
+![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Param-1712&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Param-1712&theme=radical&hide_border=true)
+
 
 
 ### ⚡ Activity Graph:
