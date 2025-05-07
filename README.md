@@ -2,9 +2,7 @@
 - 👀 I’m interested in Movies ,sleeping
 - 🌱 I’m currently learning Btech final year
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Param
 
 <!---
 Param-1712/Param-1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +17,8 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
- 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
 ### 📊 GitHub Stats:
