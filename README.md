@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Param-1712
+- 👋 Hi, I’m @Param
 - 👀 I’m interested in Watching Movies
 - 🌱 I’m currently learning Btech final year
 - 💞️ I’m looking to collaborate on ...
